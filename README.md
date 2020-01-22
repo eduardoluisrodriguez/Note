@@ -1,10 +1,9 @@
-# NoteAry
+# NoteApp
 
-[NoteAry link][noteary]
 
-[noteary]: http://noteary.herokuapp.com/
+[Live]: http://noteary.herokuapp.com/
 
-NoteAry is a web application inspired by Evernote built using Ruby on Rails and React/Redux.
+This is a web application built using Ruby on Rails and React/Redux.
 
 
 ## Features & Implementation
